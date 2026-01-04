@@ -1,0 +1,4 @@
+displayName = ChatReplacer
+author = oxy
+version = 0.11
+side = Client
